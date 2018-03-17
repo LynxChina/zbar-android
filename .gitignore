@@ -43,3 +43,4 @@ captures/
 
 build/
 so/
+src/main/jni/iconv/lib
